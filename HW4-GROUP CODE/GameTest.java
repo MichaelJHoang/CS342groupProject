@@ -4,7 +4,7 @@
  * places directions artifacts and characters, then it'll start
  * playing the game
  */
-package hw1cs342;
+
 
 import java.io.File;
 import java.io.FileNotFoundException;

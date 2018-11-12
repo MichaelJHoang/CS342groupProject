@@ -2,7 +2,7 @@
 //ACCC: dvemuri3
 //Game class is here to play the game. It has a collection of places and items in it
 //This class contains the play function, which actual executes the playing of the game
-package hw1cs342;
+
 
 import java.util.Scanner;
 import java.util.Vector;

@@ -1,5 +1,4 @@
 //Player inherits from Character, sets DecisionMaker to UI
-package hw1cs342;
 
 import java.util.Scanner;
 

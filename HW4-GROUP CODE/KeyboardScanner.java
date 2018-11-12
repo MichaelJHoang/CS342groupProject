@@ -1,5 +1,5 @@
 //Singleton class to get keyboard input, can be used in other classes
-package hw1cs342;
+
 
 import java.util.Scanner;
 

@@ -3,7 +3,6 @@
  * and add it to the list of artifacts in the place according to its place ID
  * it also has a method to use an artifact and return artifact info
  */
-package hw1cs342;
 
 import java.util.Scanner;
 

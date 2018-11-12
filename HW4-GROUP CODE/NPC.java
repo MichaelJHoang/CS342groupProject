@@ -1,5 +1,5 @@
 //NPC inherits from Character, sets decisionMaker to AI
-package hw1cs342;
+
 
 import java.util.Scanner;
 

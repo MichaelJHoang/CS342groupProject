@@ -1,10 +1,8 @@
 //Implements DecisionMaker class
 //Asks user for move and encapsulates the move into in a type of Move
-package hw1cs342;
 
 import java.util.Scanner;
 
-import hw1cs342.Move.MoveType;
 
 public class UI implements DecisionMaker{
 	

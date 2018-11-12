@@ -1,7 +1,5 @@
 //implements decisionMaker class
 //Limited functionality for AI currently. Selects from two possible moves for NPCs to make
-package hw1cs342;
-
 import java.util.Random;
 
 public class AI implements DecisionMaker{

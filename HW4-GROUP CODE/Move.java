@@ -1,5 +1,5 @@
 //A Class to encapsulate a move so that it can be executed easily in the character class. Contains Enum MoveType
-package hw1cs342;
+
 
 public class Move {
 	

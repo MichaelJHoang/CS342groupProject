@@ -3,7 +3,7 @@
  * This removes all the commands and white spaces between lines
  * so that the program only reads the useful parts of a file.
  */
-package hw1cs342;
+
 
 import java.util.Scanner;
 
