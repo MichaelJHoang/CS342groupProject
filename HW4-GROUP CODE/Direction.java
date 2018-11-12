@@ -9,7 +9,7 @@
  * File: Direction.java
  * 
  */
-package hw1cs342;
+
 import java.util.*;
 
 public class Direction

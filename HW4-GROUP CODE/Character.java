@@ -1,7 +1,7 @@
 //This class is a type of character. It can be either an NPC or player. 
 //Players use UI method of DecisionMaker and NPCs use AI
 //AI for now have limited functionality, Players can do everything that was available to them in HW2
-package hw1cs342;
+
 
 import java.util.Scanner;
 import java.util.Vector;
